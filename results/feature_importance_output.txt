@@ -1,0 +1,136 @@
+Random Forest
+
+Random Forest Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.04)
+Precision: 0.90 (+/- 0.07)
+Recall: 0.81 (+/- 0.12)
+F1-Score: 0.84 (+/- 0.10)
+
+
+Gradient Boosting
+
+Gradient Boosting Cross-Validation Results:
+Accuracy: 0.92 (+/- 0.05)
+Precision: 0.87 (+/- 0.10)
+Recall: 0.83 (+/- 0.13)
+F1-Score: 0.84 (+/- 0.12)
+
+Common important features:
+['average_link_length_same_domain', 'kword_regist', 'number_together_in_line_keywords_en', 'text_alpha_length', 'kword_héberge', 'average_link_length', 'kword_price', 'domain_in_title', 'kword_auction', 'number_links', 'number_images', 'number_link_same_domain', 'number_different_link_domains', 'number_parking_kewords_en', 'kword_contact', 'in_warninglist', 'initial_response_ratio', 'domain_in_text', 'stemmed_keyword_in_title', 'kword_site', 'maximum_link_length', 'number_domain_keywords_en', 'keyword_in_title_en', 'third_party_html_content_ratio', 'link_to_text_ratio', 'kword_transfer', 'kword_mainten', 'initial_response_size', 'kword_websit', 'number_redirects', 'third_party_requests_ratio', 'third_party_data_ratio', 'number_non_link_characters', 'kword_servic', 'kword_host', 'kword_domain', 'kword_internet']
+37
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.04)
+Precision: 0.90 (+/- 0.08)
+Recall: 0.81 (+/- 0.12)
+F1-Score: 0.84 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.05)
+Precision: 0.88 (+/- 0.11)
+Recall: 0.83 (+/- 0.13)
+F1-Score: 0.84 (+/- 0.12)
+
+Common important features:
+['average_link_length_same_domain', 'kword_regist', 'number_together_in_line_keywords_en', 'text_alpha_length', 'kword_héberge', 'average_link_length', 'domain_in_title', 'kword_auction', 'number_links', 'number_images', 'number_link_same_domain', 'number_different_link_domains', 'kword_contact', 'number_parking_kewords_en', 'in_warninglist', 'initial_response_ratio', 'stemmed_keyword_in_title', 'kword_site', 'maximum_link_length', 'number_domain_keywords_en', 'keyword_in_title_en', 'third_party_html_content_ratio', 'link_to_text_ratio', 'kword_transfer', 'initial_response_size', 'kword_websit', 'number_redirects', 'third_party_requests_ratio', 'third_party_data_ratio', 'number_non_link_characters', 'kword_servic', 'kword_host', 'kword_domain', 'kword_internet']
+34
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.04)
+Precision: 0.90 (+/- 0.08)
+Recall: 0.82 (+/- 0.11)
+F1-Score: 0.85 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.06)
+Precision: 0.87 (+/- 0.12)
+Recall: 0.83 (+/- 0.14)
+F1-Score: 0.84 (+/- 0.13)
+
+Common important features:
+['average_link_length_same_domain', 'number_together_in_line_keywords_en', 'text_alpha_length', 'average_link_length', 'domain_in_title', 'number_links', 'number_images', 'number_link_same_domain', 'number_different_link_domains', 'number_parking_kewords_en', 'kword_contact', 'in_warninglist', 'initial_response_ratio', 'stemmed_keyword_in_title', 'kword_site', 'maximum_link_length', 'number_domain_keywords_en', 'keyword_in_title_en', 'third_party_html_content_ratio', 'link_to_text_ratio', 'initial_response_size', 'kword_websit', 'number_redirects', 'third_party_requests_ratio', 'third_party_data_ratio', 'number_non_link_characters', 'kword_host', 'kword_domain']
+28
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.04)
+Precision: 0.91 (+/- 0.08)
+Recall: 0.82 (+/- 0.11)
+F1-Score: 0.85 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.05)
+Precision: 0.88 (+/- 0.10)
+Recall: 0.83 (+/- 0.13)
+F1-Score: 0.84 (+/- 0.12)
+
+Common important features:
+['average_link_length_same_domain', 'number_together_in_line_keywords_en', 'text_alpha_length', 'average_link_length', 'domain_in_title', 'number_links', 'number_images', 'number_link_same_domain', 'number_different_link_domains', 'number_parking_kewords_en', 'in_warninglist', 'initial_response_ratio', 'stemmed_keyword_in_title', 'kword_site', 'maximum_link_length', 'number_domain_keywords_en', 'keyword_in_title_en', 'link_to_text_ratio', 'initial_response_size', 'kword_websit', 'number_redirects', 'third_party_requests_ratio', 'third_party_data_ratio', 'kword_domain']
+24
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.04)
+Precision: 0.90 (+/- 0.09)
+Recall: 0.82 (+/- 0.11)
+F1-Score: 0.85 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.05)
+Precision: 0.88 (+/- 0.11)
+Recall: 0.84 (+/- 0.13)
+F1-Score: 0.85 (+/- 0.12)
+
+Common important features:
+['domain_in_title', 'keyword_in_title_en', 'third_party_requests_ratio', 'number_together_in_line_keywords_en', 'text_alpha_length', 'kword_site', 'number_links', 'number_images', 'third_party_data_ratio', 'initial_response_size', 'in_warninglist', 'initial_response_ratio', 'average_link_length', 'stemmed_keyword_in_title', 'kword_domain', 'maximum_link_length', 'number_domain_keywords_en']
+17
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.93 (+/- 0.05)
+Precision: 0.90 (+/- 0.09)
+Recall: 0.83 (+/- 0.12)
+F1-Score: 0.85 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.92 (+/- 0.06)
+Precision: 0.87 (+/- 0.11)
+Recall: 0.82 (+/- 0.13)
+F1-Score: 0.84 (+/- 0.12)
+
+Common important features:
+['keyword_in_title_en', 'domain_in_title', 'stemmed_keyword_in_title', 'text_alpha_length', 'kword_site', 'number_links', 'number_images', 'third_party_data_ratio', 'in_warninglist', 'average_link_length', 'initial_response_size', 'kword_domain', 'number_domain_keywords_en']
+13
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.94 (+/- 0.04)
+Precision: 0.90 (+/- 0.08)
+Recall: 0.84 (+/- 0.11)
+F1-Score: 0.86 (+/- 0.10)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.92 (+/- 0.05)
+Precision: 0.86 (+/- 0.09)
+Recall: 0.83 (+/- 0.12)
+F1-Score: 0.84 (+/- 0.10)
+
+Common important features:
+['keyword_in_title_en', 'text_alpha_length', 'third_party_data_ratio', 'number_links', 'number_images', 'in_warninglist', 'initial_response_size', 'kword_domain']
+8
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.92 (+/- 0.05)
+Precision: 0.88 (+/- 0.10)
+Recall: 0.81 (+/- 0.13)
+F1-Score: 0.83 (+/- 0.11)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.91 (+/- 0.06)
+Precision: 0.85 (+/- 0.11)
+Recall: 0.81 (+/- 0.13)
+F1-Score: 0.82 (+/- 0.12)
+
+Common important features:
+['keyword_in_title_en', 'text_alpha_length', 'in_warninglist', 'kword_domain']
+4
+Random forest Common Features Cross-Validation Results:
+Accuracy: 0.91 (+/- 0.05)
+Precision: 0.83 (+/- 0.09)
+Recall: 0.80 (+/- 0.12)
+F1-Score: 0.81 (+/- 0.11)
+
+Gradient Boosting Common Features Cross-Validation Results:
+Accuracy: 0.91 (+/- 0.06)
+Precision: 0.84 (+/- 0.10)
+Recall: 0.80 (+/- 0.12)
+F1-Score: 0.81 (+/- 0.11)
